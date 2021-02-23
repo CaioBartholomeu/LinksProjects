@@ -12,6 +12,7 @@ const repositories = [];
 
 app.get("/repositories", (request, response) => {
   // TODO
+  //Realizar aqui
 });
 
 app.post("/repositories", (request, response) => {
